@@ -5,5 +5,5 @@ function test() {
 }
 
 function login(){
-  console.log('login 开发一半了')
+  console.log('login 完善了')
 }
