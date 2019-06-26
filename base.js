@@ -3,3 +3,7 @@
 function test() {
   console.log(123)
 }
+
+function login(){
+  console.log('login 开发一半了')
+}
